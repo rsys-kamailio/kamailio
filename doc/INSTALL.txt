@@ -1,0 +1,5 @@
+Installation and Configuration of Kamailio
+------------------------------------------
+	./install.sh
+
+	
